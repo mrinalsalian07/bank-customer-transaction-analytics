@@ -362,9 +362,9 @@ Bank-Customer-Transaction-Analytics/
 
 **Mrinal Salian TYBSc Data Science Student**
 
-**Email:mrinal.salian07@gmail.com**
+**Email: mrinal.salian07@gmail.com**
 
-**Linkedin:linkedin.com/in/mrinal-salian-35174136b**
+**Linkedin: linkedin.com/in/mrinal-salian-35174136b**
 
 Bank Customer & Transaction Analytics  
 Power BI Project
