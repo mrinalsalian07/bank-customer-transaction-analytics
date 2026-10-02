@@ -161,7 +161,7 @@ The Bank Overview page provides a high-level summary of the banking dataset and 
 
 ### Dashboard Preview
 
-![Bank Overview](images/bank-overview.png)
+![Bank Overview](images/bank_overview.png)
 
 
 
@@ -191,7 +191,7 @@ The Transaction Analysis page focuses on transaction behavior, transaction value
 
 ### Dashboard Preview
 
-![Transaction Analysis](images/transaction-analysis.png)
+![Transaction Analysis](images/transaction_analysis.png)
 
 
 
@@ -219,7 +219,7 @@ Users can select a location and navigate to the detailed transaction page to exa
 
 ### Dashboard Preview
 
-![Customer and Location Analysis](images/customer-location-analysis.png)
+![Customer and Location Analysis](images/customer_location_analysis.png)
 
 
 
@@ -255,7 +255,7 @@ A Back button allows users to return to the previous dashboard page after perfor
 
 ### Dashboard Preview
 
-![Detailed Transaction View](images/detailed-transaction-view.png)
+![Detailed Transaction View](images/detailed_transaction_view.png)
 
 
 
