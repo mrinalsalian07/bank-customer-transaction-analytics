@@ -360,7 +360,7 @@ Bank-Customer-Transaction-Analytics/
 
 # Author
 
-**BSc Data Science Student**
+**Mrinal Salian TYBSc Data Science Student**
 
 Bank Customer & Transaction Analytics  
 Power BI Project
