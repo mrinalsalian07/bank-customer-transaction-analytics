@@ -336,10 +336,10 @@ Bank-Customer-Transaction-Analytics/
 │   └── bank_transactions.csv
 │
 ├── images/
-│   ├── bank-overview.png
-│   ├── transaction-analysis.png
-│   ├── customer-location-analysis.png
-│   └── detailed-transaction-view.png
+│   ├── bank_overview.png
+│   ├── transaction_analysis.png
+│   ├── customer_location_analysis.png
+│   └── detailed_transaction_view.png
 │
 ├── Bank_Customer_Transaction_Analytics.pbix
 │
@@ -361,6 +361,8 @@ Bank-Customer-Transaction-Analytics/
 # Author
 
 **Mrinal Salian TYBSc Data Science Student**
+**Email:mrinal.salian07@gmail.com**
+**Linkedin:linkedin.com/in/mrinal-salian-35174136b**
 
 Bank Customer & Transaction Analytics  
 Power BI Project
