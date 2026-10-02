@@ -364,7 +364,7 @@ Bank-Customer-Transaction-Analytics/
 
 **Email: mrinal.salian07@gmail.com**
 
-**Linkedin: linkedin.com/in/mrinal-salian-35174136b**
+**Linkedin: www.linkedin.com/in/mrinal-salian-35174136b**
 
 Bank Customer & Transaction Analytics  
 Power BI Project
