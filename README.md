@@ -361,9 +361,7 @@ Bank-Customer-Transaction-Analytics/
 # Author
 
 **Mrinal Salian TYBSc Data Science Student**
-
 **Email:mrinal.salian07@gmail.com**
-
 **Linkedin:linkedin.com/in/mrinal-salian-35174136b**
 
 Bank Customer & Transaction Analytics  
